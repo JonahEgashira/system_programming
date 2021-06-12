@@ -1,0 +1,9 @@
+a.out*
+aaa
+echo.c
+execv*
+execv.c
+fork*
+fork.c
+pipe.c
+syspro2021-2.pdf
